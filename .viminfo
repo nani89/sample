@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1540434297,,"q!"
 :wq!
 |2,0,1540432911,,"wq!"
 
@@ -25,16 +27,28 @@
 # Registers:
 
 # File marks:
-'0  66  0  ~/jenkins-maven-pipeline/Jenkinsfile
-|4,48,66,0,1540432911,"~/jenkins-maven-pipeline/Jenkinsfile"
+'0  1  0  ~/jenkins-maven-pipeline/pom.xml
+|4,48,1,0,1540434297,"~/jenkins-maven-pipeline/pom.xml"
+'1  66  0  ~/jenkins-maven-pipeline/Jenkinsfile
+|4,49,66,0,1540432911,"~/jenkins-maven-pipeline/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/jenkins-maven-pipeline/pom.xml
+|4,39,1,0,1540434297,"~/jenkins-maven-pipeline/pom.xml"
+-'  66  0  ~/jenkins-maven-pipeline/Jenkinsfile
+|4,39,66,0,1540432911,"~/jenkins-maven-pipeline/Jenkinsfile"
 -'  66  0  ~/jenkins-maven-pipeline/Jenkinsfile
 |4,39,66,0,1540432911,"~/jenkins-maven-pipeline/Jenkinsfile"
 -'  1  0  ~/jenkins-maven-pipeline/Jenkinsfile
 |4,39,1,0,1540432842,"~/jenkins-maven-pipeline/Jenkinsfile"
+-'  1  0  ~/jenkins-maven-pipeline/Jenkinsfile
+|4,39,1,0,1540432842,"~/jenkins-maven-pipeline/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/jenkins-maven-pipeline/pom.xml
+	*	1540434289	0
+	"	1	0
 
 > ~/jenkins-maven-pipeline/Jenkinsfile
 	*	1540432907	0
